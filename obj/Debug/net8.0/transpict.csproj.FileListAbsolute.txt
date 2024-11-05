@@ -1,0 +1,14 @@
+C:\Users\Mohamed\RiderProjects\transpict\transpict\bin\Debug\net8.0\transpict.exe
+C:\Users\Mohamed\RiderProjects\transpict\transpict\bin\Debug\net8.0\transpict.deps.json
+C:\Users\Mohamed\RiderProjects\transpict\transpict\bin\Debug\net8.0\transpict.runtimeconfig.json
+C:\Users\Mohamed\RiderProjects\transpict\transpict\bin\Debug\net8.0\transpict.dll
+C:\Users\Mohamed\RiderProjects\transpict\transpict\bin\Debug\net8.0\transpict.pdb
+C:\Users\Mohamed\RiderProjects\transpict\transpict\obj\Debug\net8.0\transpict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\RiderProjects\transpict\transpict\obj\Debug\net8.0\transpict.AssemblyInfoInputs.cache
+C:\Users\Mohamed\RiderProjects\transpict\transpict\obj\Debug\net8.0\transpict.AssemblyInfo.cs
+C:\Users\Mohamed\RiderProjects\transpict\transpict\obj\Debug\net8.0\transpict.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\RiderProjects\transpict\transpict\obj\Debug\net8.0\transpict.dll
+C:\Users\Mohamed\RiderProjects\transpict\transpict\obj\Debug\net8.0\refint\transpict.dll
+C:\Users\Mohamed\RiderProjects\transpict\transpict\obj\Debug\net8.0\transpict.pdb
+C:\Users\Mohamed\RiderProjects\transpict\transpict\obj\Debug\net8.0\transpict.genruntimeconfig.cache
+C:\Users\Mohamed\RiderProjects\transpict\transpict\obj\Debug\net8.0\ref\transpict.dll
